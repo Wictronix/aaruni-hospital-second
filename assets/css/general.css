@@ -19,11 +19,11 @@ h2 {
   text-align: center;
 }
 
-h2::before {
+/*h2::before {
   content: " ";
   border-left: 5px solid #ff6600;
   padding-left: 15px;
-}
+}*/
 
 .menu {
   width: 100%;
@@ -673,6 +673,10 @@ body {
 
 .special .slick-slide img {
   width: 100%;
+}
+
+.special img {
+  height: 350px;
 }
 
 .choose {
@@ -2182,6 +2186,10 @@ td {
 
   .carousel-item img {
     height: 250px;
+  }
+
+  .carousel-item .card {
+    
   }
 
   .about h2 {
