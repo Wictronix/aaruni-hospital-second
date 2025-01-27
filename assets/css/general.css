@@ -300,6 +300,10 @@ body {
   height: 100%;
 }
 
+.carousel-item .card {
+  height: 400px;
+}
+
 .menu-area {
   background: #fff;
   box-shadow: 3px 4px 2px #00000026;
@@ -2189,7 +2193,6 @@ td {
   }
 
   .carousel-item .card {
-    
   }
 
   .about h2 {
